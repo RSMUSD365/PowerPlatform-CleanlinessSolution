@@ -4,7 +4,7 @@ The Sanitation App provides businesses across any industry the opportunity to as
 
 To watch a demo of this solution by our Microsoft Innovation Leader, George Casey, click the video below. 
 
-[![Retail Cleanliness](http://img.youtube.com/vi/viWeK7ccU0g/0.jpg)](http://www.youtube.com/watch?v=viWeK7ccU0g "Retail Cleanliness")
+[![Retail Cleanliness](http://img.youtube.com/vi/1_zhDnmNSsg/0.jpg)](http://www.youtube.com/watch?v=viWeK7ccU0g "Retail Cleanliness")
 
 
 ## Main Components
