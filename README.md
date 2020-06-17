@@ -2,6 +2,11 @@
 ## Overview
 The Sanitation App provides businesses across any industry the opportunity to assign and track personnel assignments, capture customer feedback and review analytics to better manage sanitation efforts. As cleanliness moves to the forefront of business’ priority list, this solution offers employees, management and customers the assurance that retailers are taking every measure to make their environments the safest for everyone. 
 
+To watch a demo of this solution by our Microsoft Innovation Leader, George Casey, click the video below. 
+
+[![Retail Cleanliness](http://img.youtube.com/vi/viWeK7ccU0g/0.jpg)](http://www.youtube.com/watch?v=viWeK7ccU0g "Retail Cleanliness")
+
+
 ## Main Components
 - **Employee job tracking app**: Staff have access to an employee app which allows them to see assigned jobs, pick up unassigned jobs, track progress throughout the day and report issues they come across.
 - **Customer feedback kiosk**: Customers can provide live feedback of their satisfaction of cleanliness at key points throughout a store.
