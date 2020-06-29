@@ -1,0 +1,101 @@
+Description,Instructions,Name,Status Reason,Status,Task Template,Task Type,Job Template ID
+Use Sanitation wipes to clean all Kiosk surfaces,"1. Get cleaning wipes
+2. Wipe down screen
+3. Dispose of used wipes",Wipe Down Kiosk,Active,Active,c84a4afb-13a5-ea11-a812-000d3a5c2ece,Cleaning,345ca64e-04a1-ea11-a812-000d3a5c2ece
+Roll up the rugs and shake them out back,"1. Roll up rug
+2. Sweep underneath
+3. Roll out after mopping is complete",Remove and Shake the Rugs,Active,Active,bf47fe57-a8a5-ea11-a812-000d3a5c2ece,,aa82cb2d-a8a5-ea11-a812-000d3a5c2ece
+Wipe down door handles & light switches,"1. Get cleaning wipes
+2. Wipe down contact points
+3. Dispose of used wipes",Wipe Down Contact Points,Active,Active,42825358-4ba4-ea11-a812-000d3a33b5c3,Cleaning,345ca64e-04a1-ea11-a812-000d3a5c2ece
+Use disinfecting wipes,"1. Get cleaning wipes
+2. Wipe down contact points
+3. Dispose of used wipes",Wipe Down Railing,Active,Active,fe82a68f-14a5-ea11-a812-000d3a5c2ece,Cleaning,345ca64e-04a1-ea11-a812-000d3a5c2ece
+Use disinfecting wipes,"1. Get cleaning wipes
+2. Wipe down screen
+3. Dispose of used wipes",Wipe Down Kiosk,Active,Active,916787ea-14a5-ea11-a812-000d3a5c2ece,Cleaning,f6f016f3-11a5-ea11-a812-000d3a5c2ece
+Stock the cleaning closet,"1. Fill cart with new supplies
+2. Stock the cleaning closet",Stock Cleaning Equipment,Active,Active,62191953-14a1-ea11-a812-000d3a5c2ece,,1df0560c-04a1-ea11-a812-000d3a5c2ece
+Sanitize Used Cart Handles,"1. Get disinfectant wipes
+2. Grab used shopping carts
+3. Wipe down points of contact",Sanitize Carts,Active,Active,3394d6b7-17a1-ea11-a812-000d3a5c2ece,Disinfecting,345ca64e-04a1-ea11-a812-000d3a5c2ece
+Sanitize Used Basket Handles,"1. Get disinfectant wipes
+2. Grab used baskets
+3. Wipe down points of contact",Sanitize Baskets,Active,Active,f663fbc3-17a1-ea11-a812-000d3a5c2ece,Disinfecting,345ca64e-04a1-ea11-a812-000d3a5c2ece
+Remove build up of dirt & dust,"1. Fill mop bucket with hot water & add soap
+2. Lay out wet floor sign
+3. Mop floor
+4. Return mop & bucket",Mop Floors,Active,Active,9c46dc45-a8a5-ea11-a812-000d3a5c2ece,Cleaning,aa82cb2d-a8a5-ea11-a812-000d3a5c2ece
+Remove build up of dirt & dust,"1. Fill mop bucket with hot water & add soap
+2. Lay out wet floor sign
+3. Mop floor
+4. Return mop & bucket",Mop Floors,Active,Active,e1e89781-13a5-ea11-a812-000d3a5c2ece,,1df0560c-04a1-ea11-a812-000d3a5c2ece
+Remove build up of dirt & dust,"1. Fill mop bucket with hot water & add soap
+2. Lay out wet floor sign
+3. Mop floor
+4. Return mop & bucket",Mop Floors,Active,Active,87c9ec62-13a5-ea11-a812-000d3a5c2ece,Cleaning,29b17438-0fa5-ea11-a812-000d3a5c2ece
+Remove build up of dirt & dust,"1. Fill mop bucket with hot water & add soap
+2. Lay out wet floor sign
+3. Mop floor
+4. Return mop & bucket",Mop Floors,Active,Active,fb9cb098-0fa5-ea11-a812-000d3a5c2ece,Cleaning,131d0b6a-0aa1-ea11-a812-000d3a33b5c3
+Remove Trash & replace Bag,"1. Grab 2 new bags
+2. Remove current trash bag
+3. Tie bag
+4. Insert new bags, double bag",Take Out The Trash,Active,Active,6b3d5a8e-13a5-ea11-a812-000d3a5c2ece,Cleaning,1df0560c-04a1-ea11-a812-000d3a5c2ece
+Take out trash & replace bag,"1. Grab 2 new bags
+2. Remove current trash bag
+3. Tie bag
+4. Insert new bags, double bag",Take Out The Trash,Active,Active,3d288f32-c8a1-ea11-a812-000d3a5c2ece,Cleaning,131d0b6a-0aa1-ea11-a812-000d3a33b5c3
+Remove trash & replace bag,"1. Grab 2 new bags
+2. Remove current trash bag
+3. Tie bag
+4. Insert new bags, double bag",Take Out The Trash,Active,Active,2e1cf556-13a5-ea11-a812-000d3a5c2ece,Cleaning,29b17438-0fa5-ea11-a812-000d3a5c2ece
+"Mop under rugs, Remove build up of dirt & dusk","*After rugs are removed, mop the front entrance starting with the front of the doors all the way back
+1. Fill mop bucket with hot water & add soap
+2. Lay out wet floor sign
+3. Mop floor
+4. Return mop & bucket",Mop Floors,Active,Active,14052e70-a8a5-ea11-a812-000d3a5c2ece,Cleaning,aa82cb2d-a8a5-ea11-a812-000d3a5c2ece
+Fill hand sanitizer bottle to full capacity,"1. Get Sanitizer from Storage Closet
+2. Unlock & Open Hand Sanitizer
+3. Fill Hand Sanitizer to top
+4. Close & Lock Hand Sanitizer
+5. Return Sanitizer",Fill hand sanitizer,Active,Active,400444d8-14a5-ea11-a812-000d3a5c2ece,Disinfecting,f6f016f3-11a5-ea11-a812-000d3a5c2ece
+Fill hand sanitizer bottle to full capacity,"1. Get Sanitizer from Storage Closet
+2. Unlock & Open Hand Sanitizer
+3. Fill Hand Sanitizer to top
+4. Close & Lock Hand Sanitizer
+5. Return Sanitizer",Fill Hand Sanitizer,Active,Active,aace5e26-13a5-ea11-a812-000d3a5c2ece,Disinfecting,29b17438-0fa5-ea11-a812-000d3a5c2ece
+Fill hand sanitizer bottle to full capacity,"1. Get Sanitizer from Storage Closet
+2. Unlock & Open Hand Sanitizer
+3. Fill Hand Sanitizer to top
+4. Close & Lock Hand Sanitizer
+5. Return Sanitizer",Fill Hand Sanitizer,Active,Active,67e562fc-12a5-ea11-a812-000d3a5c2ece,Disinfecting,131d0b6a-0aa1-ea11-a812-000d3a33b5c3
+Fill hand sanitizer bottle to full capacity,"1. Get Sanitizer from Storage Closet
+2. Unlock & Open Hand Sanitizer
+3. Fill Hand Sanitizer to top
+4. Close & Lock Hand Sanitizer
+5. Return Sanitizer",Fill Hand Sanitizer,Active,Active,4d0c35b0-2da1-ea11-a812-000d3a33b5c3,Disinfecting,345ca64e-04a1-ea11-a812-000d3a5c2ece
+Wipe down surfaces frequently touched by customers,"1. Grab app purpose cleaner & rag
+2. Spray surface with cleaner
+3. Wipe down with rag
+4. Check for wet spots",Disinfect Surfaces,Active,Active,6ab14b20-c8a1-ea11-a812-000d3a5c2ece,Disinfecting,1df0560c-04a1-ea11-a812-000d3a5c2ece
+Clean & Sanitize Toilets,"1. Get cleaner, paper towels & brush
+2. Spray all surfaces of toilet
+3. Wipe down with paper towels
+4. Scrub bowl
+5. Flush",Clean Toilets,Active,Active,2465e144-13a5-ea11-a812-000d3a5c2ece,Cleaning,29b17438-0fa5-ea11-a812-000d3a5c2ece
+Clean & Sanitize Toilets,"1. Get cleaner, paper towels & brush
+2. Spray all surfaces of toilet
+3. Wipe down with paper towels
+4. Scrub bowl
+5. Flush",Clean Toilets,Active,Active,f6cd7e7f-cca1-ea11-a812-000d3a33b5c3,Cleaning,131d0b6a-0aa1-ea11-a812-000d3a33b5c3
+Clean & Sanitize Sinks,"1. Spray sinks with cleaner
+2. Wipe down with paper towels
+3. Wipe under sinks
+4. Spray mirrors with glass cleaner
+5. Wipe dry with paper towels",Clean Sinks,Active,Active,24350a39-0ea5-ea11-a812-000d3a5c2ece,Cleaning,131d0b6a-0aa1-ea11-a812-000d3a33b5c3
+Clean & Sanitize Sinks,"1. Spray sinks with cleaner
+2. Wipe down with paper towels
+3. Wipe under sinks
+4. Spray mirrors with glass cleaner
+5. Wipe dry with paper towels",Clean Sinks,Active,Active,ecdbb532-13a5-ea11-a812-000d3a5c2ece,Cleaning,29b17438-0fa5-ea11-a812-000d3a5c2ece
