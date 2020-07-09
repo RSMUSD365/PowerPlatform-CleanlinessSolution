@@ -1,7 +1,0 @@
-Active End Date,Active Start Date,Frequency Start Time,Frequency Type,Job Type,Duration in Minutes,Job Template,Name,Reoccurence,Reoccurrs Every X Minutes,Area ID
-7/4/2020 15:00,6/2/2020 15:00,6/2/2020 15:00,Hourly,Cleaning,60,aa82cb2d-a8a5-ea11-a812-000d3a5c2ece,Sanitize Surfaces,8,60,Common Area
-7/31/2020 20:00,6/1/2020 15:00,5/28/2020 19:00,Daily,Cleaning,15,f6f016f3-11a5-ea11-a812-000d3a5c2ece,Clean the Breakroom,2,240,Breakroom
-7/4/2020 15:00,6/2/2020 15:00,6/2/2020 15:00,Hourly,Cleaning,30,345ca64e-04a1-ea11-a812-000d3a5c2ece,Clean Men's Restroom,3,120,Men's Restroom
-1/1/2021 14:00,6/1/2020 13:00,6/2/2020 1:00,Weekly,Cleaning,10,131d0b6a-0aa1-ea11-a812-000d3a33b5c3,Weekly Mopping of the Floors,1,,Front Entrance
-7/4/2020 15:00,6/2/2020 15:00,6/1/2020 15:00,Hourly,Cleaning,30,1df0560c-04a1-ea11-a812-000d3a5c2ece,Sanitize Front Entrance,8,120,Front Entrance
-7/4/2020 15:00,6/5/2020 15:00,5/28/2020 15:00,Daily,Cleaning,30,29b17438-0fa5-ea11-a812-000d3a5c2ece,Clean Women's Restroom,3,,Women's Restroom
